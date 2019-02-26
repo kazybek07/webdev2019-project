@@ -1,7 +1,7 @@
 # WebProject
 
 Team:
-Kokpanbayev Beksultan bkakpanbay@gmail.com,
-Alshymbaeva Rauza rauza907@gmail.com,
+Kokpanbayev Beksultan,
+Alshymbaeva Rauza,
 Turdaleyev Azamat Farabi, 
-Dyussyumbayev Temirlan bzzitsme@gmail.com
+Dyussyumbayev Temirlan
