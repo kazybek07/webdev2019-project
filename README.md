@@ -1,11 +1,12 @@
 # WebProject
 
 Team:
-| Name          | Github        |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-Kokpanbayev Beksultan,
-Alshymbaeva Rauza,
-Turdaleyev Azamat Farabi, 
-Dyussyumbayev Temirlan
+| Name                    | Github             | Email                   |
+| -------------           |:------------------:| -----------------------:|                  
+| Kokpanbayev Beksultan   | kbeksultan         | bkakpanbay@gmail.com    |
+| Alshymbaeva Rauza       | RauzaAl            | rauza907@gmail.com      |
+| Turdaleyev Azamat Farabi| azamatfarabi       | azamat.turdaleev@mail.ru|
+| Dyussyumbayev Temirlan  |                    | bzzitsme@gmail.com      |
+
+
+
