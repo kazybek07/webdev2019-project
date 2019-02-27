@@ -10,4 +10,5 @@
 
 ### Project Description
 
+The book exchange movement has gained immense popularity around the world. This is convenient — your books find new owners, and you get a new reading. Our site is a club of readers where people can exchange books for free, without spending their money to buy a new book, and also save time.
 
